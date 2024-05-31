@@ -1,3 +1,4 @@
-h1{
-    font-size: medium;
+div>h1{
+    font-size: large;
+    font-family: sans-serif;
 }
